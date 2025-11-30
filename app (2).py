@@ -1,4 +1,25 @@
+
+
+# Function to install a package if it's not already installed
+def install(package):
+    try:
+        __import__(package)
+    except ImportError:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+# Install packages
+install("matplotlib")
+install("streamlit")
+install("numpy")
+install("pandas")
 import streamlit as st
+import pandas as pd
+import subprocess
+import sys
+# Now import them
+import matplotlib.pyplot as plt
+import streamlit as st
+import numpy as np
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
