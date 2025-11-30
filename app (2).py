@@ -1,17 +1,32 @@
 
 
-# Function to install a package if it's not already installed
-def install(package):
-    try:
-        __import__(package)
-    except ImportError:
-        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+import streamlit as st
 
-# Install packages
-install("matplotlib")
-install("streamlit")
-install("numpy")
-install("pandas")
+# --- Dependency check ---
+missing_packages = []
+
+try:
+    import matplotlib.pyplot as plt
+except ImportError:
+    missing_packages.append("matplotlib")
+
+try:
+    import numpy as np
+except ImportError:
+    missing_packages.append("numpy")
+
+try:
+    import pandas as pd
+except ImportError:
+    missing_packages.append("pandas")
+
+# Notify user if packages are missing
+if missing_packages:
+    st.error(
+        f"The following packages are missing: {', '.join(missing_packages)}.\n"
+        "Please install them by running `pip install -r requirements.txt` or manually via pip."
+    )
+    st.stop()  # Stop the app from running further
 import streamlit as st
 import pandas as pd
 import subprocess
