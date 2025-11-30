@@ -1,0 +1,667 @@
+pl_name,disc_facility,sy_vmag,sy_kmag,sy_gaiamag
+HAT-P-12 b,HATNet,12.665,10.108,12.4197
+HAT-P-14 b,HATNet,9.988,8.851,9.87283
+HAT-P-15 b,HATNet,12.41,9.641,11.7232
+HAT-P-16 b,HATNet,10.911,9.553001,10.7568
+HAT-P-17 b,HATNet,10.375,8.544,10.2743
+HAT-P-18 b,HATNet,12.597,10.234,12.3682
+HAT-P-20 b,HATNet,11.231,8.601,10.9903
+HAT-P-21 b,HATNet,11.459,10.111,11.5583
+HAT-P-22 b,HATNet,9.763,7.837,9.51936
+HAT-P-23 b,HATNet,11.937,10.791,12.1741
+HAT-P-24 b,HATNet,11.762,10.543,11.6396
+HAT-P-25 b,HATNet,13.146,10.815,12.8416
+HAT-P-26 b,HATNet,11.757,9.581,11.4641
+HAT-P-27 b,HATNet,12.052,10.109,11.9562
+HAT-P-28 b,HATNet,13.098,11.104,12.8718
+HAT-P-29 b,HATNet,11.825,10.297,11.7336
+HAT-P-3 b,HATNet,11.856,9.448,11.2795
+HAT-P-30 b,HATNet,10.352,9.151,10.2998
+HAT-P-31 b,HATNet,11.667,10.083,11.4501
+HAT-P-32 b,HATNet,11.439,9.99,11.1335
+HAT-P-33 b,HATNet,11.032,10.004,11.0238
+HAT-P-34 b,HATNet,10.403,9.247,10.1944
+HAT-P-35 b,HATNet,12.389,11.03,12.2802
+HAT-P-37 b,HATNet,13.427,11.667,13.2615
+HAT-P-38 b,HATNet,12.525,10.501,12.3021
+HAT-P-39 b,HATNet,12.282,11.157,12.2269
+HAT-P-4 b,HATNet,11.118,9.770001,11.0634
+HAT-P-40 b,HATNet,11.34,10.009,11.4162
+HAT-P-41 b,HATNet,11.365,9.728,10.939
+HAT-P-42 b,HATNet,12.125,10.626,12.0031
+HAT-P-44 b,HATNet,13.225,11.275,12.9729
+HAT-P-45 b,HATNet,12.783,10.201,12.3977
+HAT-P-46 b,HATNet,11.997,9.924,11.6843
+HAT-P-49 b,HATNet,10.205,9.346,10.2071
+HAT-P-5 b,HATNet,11.954,10.481,11.8224
+HAT-P-50 b,HATNet,11.703,10.5,11.6722
+HAT-P-52 b,HATNet,14.107,11.621,13.787
+HAT-P-53 b,HATNet,13.78,12.1,13.5142
+HAT-P-54 b,HATNet,13.398,10.326,13.0172
+HAT-P-57 b,HATNet,10.639,9.433,10.4253
+HAT-P-58 b,HATNet,12.925,10.978,12.7202
+HAT-P-59 b,HATNet,11.64,10.208,11.6787
+HAT-P-6 b,HATNet,10.469,9.313,10.3056
+HAT-P-60 b,HATNet,9.727,8.368,9.56355
+HAT-P-61 b,HATNet,13.096,11.141,12.9386
+HAT-P-62 b,HATNet,12.539,10.701,12.4362
+HAT-P-63 b,HATNet,13.657,11.512,13.5106
+HAT-P-64 b,HATNet,12.855,11.123,12.6221
+HAT-P-66 b,HATNet,13.014,11.675,12.8922
+HAT-P-67 b,HATNet,10.106,8.9,9.97496
+HAT-P-68 b,HATNet,13.802,11.019,13.5442
+HAT-P-69 b,HATNet,9.774,9.28,9.77332
+HAT-P-7 b,HATNet,10.481,9.334,10.3654
+HAT-P-70 b,HATNet,9.47,8.963,9.45174
+HAT-P-8 b,HATNet,10.358,8.953,10.1489
+HAT-P-9 b,HATNet,12.344,11.015,12.1536
+NGTS-1 b,Next-Generation Transit Survey (NGTS),15.667,11.936,14.8661
+NGTS-10 b,Next-Generation Transit Survey (NGTS),14.506,11.728,14.2604
+NGTS-12 b,Next-Generation Transit Survey (NGTS),12.382,10.588,12.1279
+NGTS-13 b,Next-Generation Transit Survey (NGTS),12.744,11.141,12.5691
+NGTS-14 A b,Next-Generation Transit Survey (NGTS),13.268,11.305,13.0986
+NGTS-15 b,Next-Generation Transit Survey (NGTS),14.669,12.907,14.4299
+NGTS-16 b,Next-Generation Transit Survey (NGTS),14.529,12.647,14.2311
+NGTS-17 b,Next-Generation Transit Survey (NGTS),14.412,12.724,14.2136
+NGTS-18 b,Next-Generation Transit Survey (NGTS),14.588,12.87,14.3896
+NGTS-2 b,Next-Generation Transit Survey (NGTS),10.789,9.799,10.8605
+NGTS-21 b,Next-Generation Transit Survey (NGTS),15.506,12.951,15.224
+NGTS-23 b,Next-Generation Transit Survey (NGTS),14.126,12.73,13.9535
+NGTS-24 b,Next-Generation Transit Survey (NGTS),13.214,11.51,13.0525
+NGTS-25 b,Next-Generation Transit Survey (NGTS),14.333,12.324,14.0864
+NGTS-26 b,Next-Generation Transit Survey (NGTS),15.009,13.119,14.7261
+NGTS-32 b,Next-Generation Transit Survey (NGTS),13.588,11.689,13.3116
+NGTS-4 b,Next-Generation Transit Survey (NGTS),13.138,11.073,12.9092
+NGTS-5 b,Next-Generation Transit Survey (NGTS),13.789,11.612,13.526
+NGTS-6 b,Next-Generation Transit Survey (NGTS),14.237,11.65,13.8175
+NGTS-8 b,Next-Generation Transit Survey (NGTS),13.69,11.642,13.4954
+NGTS-9 b,Next-Generation Transit Survey (NGTS),12.868,11.452,12.6547
+WASP-100 b,SuperWASP,10.798,9.669,10.6151
+WASP-101 b,SuperWASP,10.336,9.075,10.138
+WASP-102 b,SuperWASP,12.667,11.106,12.562
+WASP-104 b,SuperWASP,11.779,9.882,11.5931
+WASP-105 b,SuperWASP-South,12.049,9.935,11.8445
+WASP-106 b,SuperWASP,11.21,10.161,11.3659
+WASP-11 b,SuperWASP,11.567,9.421,11.5535
+WASP-113 b,SuperWASP-North,11.761,10.311,11.6041
+WASP-114 b,SuperWASP-North,12.685,11.074,12.5227
+WASP-116 b,SuperWASP,12.517,11.021,12.2577
+WASP-117 b,SuperWASP,10.139,8.78,10.0269
+WASP-118 b,SuperWASP,11.009,9.788,10.9196
+WASP-119 b,SuperWASP-South,12.314,10.545,12.1014
+WASP-120 b,SuperWASP,10.96,9.877,10.8989
+WASP-123 b,SuperWASP,11.03,9.362001,10.8999
+WASP-124 b,SuperWASP-South,12.724,11.31,12.5754
+WASP-129 b,SuperWASP-South,12.179,10.412,11.8127
+WASP-13 b,SuperWASP,10.424,9.119,10.38
+WASP-130 b,SuperWASP-South,11.104,9.461,10.9717
+WASP-131 b,SuperWASP-South,10.068,8.573,9.86708
+WASP-132 b,SuperWASP-South,11.938,9.674,11.7538
+WASP-133 b,SuperWASP-South,12.891,11.18,12.7146
+WASP-135 b,SuperWASP,13.181,11.037,13.0045
+WASP-139 b,SuperWASP-South,12.456,10.472,12.2715
+WASP-14 b,SuperWASP,9.745,8.621,9.64647
+WASP-140 b,SuperWASP-South,11.118,9.165,10.8202
+WASP-141 b,SuperWASP-South,12.65,11.194,12.4822
+WASP-142 b,SuperWASP-South,12.871,11.442,12.7568
+WASP-144 b,SuperWASP-South,13.085,10.897,12.915
+WASP-145 A b,SuperWASP-South,11.636,9.194,11.3583
+WASP-147 b,SuperWASP-South,12.681,10.857,12.1832
+WASP-148 b,SuperWASP-North,12.036,10.506,12.0845
+WASP-149 b,SuperWASP,11.687,9.825,11.2622
+WASP-15 b,SuperWASP,10.972,9.693,10.797
+WASP-150 b,SuperWASP-North,12.026,10.747,11.9151
+WASP-153 b,SuperWASP,12.591,11.051,12.4967
+WASP-154 b,SuperWASP,13.191,10.774,12.8344
+WASP-155 b,SuperWASP,12.365,10.86,12.4962
+WASP-156 b,SuperWASP,11.559,9.339,11.3227
+WASP-158 b,SuperWASP-South,12.044,10.881,12.0911
+WASP-159 b,SuperWASP-South,12.836,11.017,12.2951
+WASP-16 b,SuperWASP,11.288,9.589,11.1247
+WASP-160 B b,SuperWASP-South,13.04,11.055,12.8842
+WASP-162 b,SuperWASP-South,12.213,10.466,12.0652
+WASP-164 b,SuperWASP-South,12.603,10.959,12.4679
+WASP-165 b,SuperWASP-South,12.816,11.024,12.5435
+WASP-168 b,SuperWASP-South,12.124,10.443,11.7139
+WASP-17 b,SuperWASP,11.588,10.224,11.3803
+WASP-172 b,SuperWASP-South,10.988,10.13,11.0099
+WASP-173 A b,SuperWASP-South,11.15,10.002,11.3975
+WASP-174 b,SuperWASP-South,11.803,10.579,11.6826
+WASP-176 b,SuperWASP-North,12.006,10.648,11.9392
+WASP-18 b,SuperWASP,9.28,8.131,9.16617
+WASP-180 A b,SuperWASP,10.655,9.812,10.9134
+WASP-186 b,SuperWASP,10.81,9.532,10.6509
+WASP-187 b,SuperWASP,10.295,8.79,10.1318
+WASP-188 b,SuperWASP,12.165,11.042,12.0215
+WASP-19 b,SuperWASP,12.248,10.481,12.1088
+WASP-194 b,SuperWASP,11.985,10.875,11.922
+WASP-195 b,SuperWASP,11.947,10.679,11.7877
+WASP-197 b,SuperWASP,11.565,10.017,11.2369
+WASP-20 b,SuperWASP,10.675,9.39,10.6503
+WASP-22 b,SuperWASP,11.99,10.318,11.5821
+WASP-23 b,SuperWASP,12.539,10.45,12.3208
+WASP-24 b,SuperWASP,11.219,10.148,11.3945
+WASP-26 b,SuperWASP,11.297,9.69,10.9935
+WASP-29 b,SuperWASP,11.331,8.783,10.8932
+WASP-3 b,SuperWASP,10.632,9.361,10.4525
+WASP-31 b,SuperWASP,11.658,10.65,11.8163
+WASP-32 b,SuperWASP,11.257,10.161,11.409
+WASP-34 b,SuperWASP,10.285,8.792,10.2046
+WASP-35 b,SuperWASP,10.939,9.525,10.8531
+WASP-37 b,SuperWASP,12.815,11.093,12.542
+WASP-38 b,SuperWASP,9.391,7.998,9.20974
+WASP-41 b,SuperWASP,11.632,9.677,11.2823
+WASP-43 b,SuperWASP,12.305,9.267,11.907
+WASP-48 b,SuperWASP,11.647,10.372,11.523
+WASP-49 b,SuperWASP,11.352,9.749,11.2907
+WASP-5 b,SuperWASP,12.147,10.598,11.996
+WASP-52 b,SuperWASP,12.192,10.086,11.9537
+WASP-54 b,SuperWASP,10.413,9.035,10.2441
+WASP-56 b,SuperWASP,12.091,10.532,12.0028
+WASP-58 b,SuperWASP,11.652,10.285,11.6347
+WASP-59 b,SuperWASP,12.659,9.723,12.3142
+WASP-60 b,SuperWASP,11.67,10.585,12.0196
+WASP-61 b,SuperWASP,12.489,11.008,12.0702
+WASP-62 b,SuperWASP,10.213,8.944,10.0721
+WASP-63 b,SuperWASP,11.155,9.393,10.9185
+WASP-64 b,SuperWASP,12.704,10.956,12.5257
+WASP-65 b,SuperWASP,11.869,10.346,11.7509
+WASP-66 b,SuperWASP,11.605,10.452,11.5904
+WASP-67 b,SuperWASP,12.537,10.129,11.9141
+WASP-68 b,SuperWASP,10.674,8.948,10.4092
+WASP-69 b,SuperWASP,9.873,7.459,9.48466
+WASP-70 A b,SuperWASP,10.786,9.58,11.0323
+WASP-71 b,SuperWASP,10.56,9.32,10.5678
+WASP-72 b,SuperWASP,10.868,9.617,10.8378
+WASP-73 b,SuperWASP,10.468,9.028,10.2607
+WASP-74 b,SuperWASP,9.75,8.221,9.5723
+WASP-75 b,SuperWASP,11.591,10.062,11.3347
+WASP-76 b,SuperWASP,9.518,8.243,9.39507
+WASP-78 b,SuperWASP,11.965,11.008,12.1879
+WASP-79 b,SuperWASP,10.044,9.056,9.97202
+WASP-8 b,SuperWASP,9.789,8.086,9.61249
+WASP-80 b,SuperWASP,11.841,8.351,11.273
+WASP-82 b,SuperWASP,10.073,8.759,9.89796
+WASP-83 b,SuperWASP,12.312,10.393,12.0084
+WASP-88 b,SuperWASP,11.388,10.322,11.478
+WASP-89 b,SuperWASP,13.21,11.004,12.989
+WASP-90 b,SuperWASP,11.618,10.248,11.4559
+WASP-91 b,SuperWASP-South,11.98,9.712,11.6236
+WASP-92 b,SuperWASP,12.951,11.519,12.8183
+WASP-93 b,SuperWASP,10.966,9.942,10.978
+WASP-94 A b,SuperWASP,10.051,8.874,10.0285
+WASP-95 b,SuperWASP,10.092,8.564,9.93697
+WASP-96 b,SuperWASP,12.569,10.914,12.3833
+WASP-97 b,SuperWASP,10.57,9.03,10.4238
+WASP-99 b,SuperWASP,9.475,8.088,9.3251
+BD-14 3065 b,Transiting Exoplanet Survey Satellite (TESS),11.1,9.932,10.91
+GJ 1252 b,Transiting Exoplanet Survey Satellite (TESS),12.68,7.915,11.2364
+GJ 143 b,Transiting Exoplanet Survey Satellite (TESS),8.08,5.375,7.67906
+GJ 3090 b,Transiting Exoplanet Survey Satellite (TESS),11.403,7.294,10.5521
+GJ 341 b,Transiting Exoplanet Survey Satellite (TESS),9.49,5.587,8.67538
+GJ 3473 b,Transiting Exoplanet Survey Satellite (TESS),13.74,8.829001,12.465
+GJ 367 b,Transiting Exoplanet Survey Satellite (TESS),10.153,5.78,9.15159
+GJ 3929 b,Transiting Exoplanet Survey Satellite (TESS),12.675,7.869,11.5109
+Gliese 12 b,Transiting Exoplanet Survey Satellite (TESS),12.6,7.807,11.3963
+HD 110113 b,Transiting Exoplanet Survey Satellite (TESS),10.09,8.502,9.91036
+HD 1397 b,Transiting Exoplanet Survey Satellite (TESS),7.79,5.988,7.59336
+HD 152843 b,Transiting Exoplanet Survey Satellite (TESS),8.855,7.629,8.76412
+HD 152843 c,Transiting Exoplanet Survey Satellite (TESS),8.855,7.629,8.76412
+HD 15337 b,Transiting Exoplanet Survey Satellite (TESS),9.1,7.044,8.85598
+HD 15337 c,Transiting Exoplanet Survey Satellite (TESS),9.1,7.044,8.85598
+HD 183579 b,Transiting Exoplanet Survey Satellite (TESS),8.67,7.15,8.51549
+HD 18599 b,Transiting Exoplanet Survey Satellite (TESS),8.99,6.883,8.73117
+HD 191939 b,Transiting Exoplanet Survey Satellite (TESS),8.97,7.18,8.77476
+HD 191939 c,Transiting Exoplanet Survey Satellite (TESS),8.97,7.18,8.77476
+HD 191939 d,Transiting Exoplanet Survey Satellite (TESS),8.97,7.18,8.77476
+HD 202772 A b,Transiting Exoplanet Survey Satellite (TESS),8.324,6.959,8.22688
+HD 20329 b,Transiting Exoplanet Survey Satellite (TESS),8.76,7.116,8.59089
+HD 207496 b,Transiting Exoplanet Survey Satellite (TESS),8.23,5.967,7.97255
+HD 207897 b,Transiting Exoplanet Survey Satellite (TESS),8.37,6.312,8.13037
+HD 213885 b,Transiting Exoplanet Survey Satellite (TESS),7.95,6.419,7.80173
+HD 21520 b,Transiting Exoplanet Survey Satellite (TESS),9.17,7.707,9.01796
+HD 219666 b,Transiting Exoplanet Survey Satellite (TESS),9.809,8.158,9.64956
+HD 221416 b,Transiting Exoplanet Survey Satellite (TESS),8.15,6.043,7.90776
+HD 23472 b,Transiting Exoplanet Survey Satellite (TESS),9.73,7.207,9.38476
+HD 23472 c,Transiting Exoplanet Survey Satellite (TESS),9.73,7.207,9.38476
+HD 23472 d,Transiting Exoplanet Survey Satellite (TESS),9.73,7.207,9.38476
+HD 23472 e,Transiting Exoplanet Survey Satellite (TESS),9.73,7.207,9.38476
+HD 23472 f,Transiting Exoplanet Survey Satellite (TESS),9.73,7.207,9.38476
+HD 235088 b,Transiting Exoplanet Survey Satellite (TESS),9.19,7.084,8.94271
+HD 25463 b,Transiting Exoplanet Survey Satellite (TESS),6.91134,5.706,6.77613
+HD 25463 c,Transiting Exoplanet Survey Satellite (TESS),6.91134,5.706,6.77613
+HD 260655 b,Transiting Exoplanet Survey Satellite (TESS),9.63,5.862,8.876041
+HD 260655 c,Transiting Exoplanet Survey Satellite (TESS),9.63,5.862,8.876041
+HD 2685 b,Transiting Exoplanet Survey Satellite (TESS),9.595,8.595,9.52025
+HD 28109 b,Transiting Exoplanet Survey Satellite (TESS),9.42,8.175,9.29976
+HD 28109 c,Transiting Exoplanet Survey Satellite (TESS),9.42,8.175,9.29976
+HD 28109 d,Transiting Exoplanet Survey Satellite (TESS),9.42,8.175,9.29976
+HD 332231 b,Transiting Exoplanet Survey Satellite (TESS),8.558,7.242,8.41839
+HD 35843 c,Transiting Exoplanet Survey Satellite (TESS),9.36,7.782,9.19551
+HD 5278 b,Transiting Exoplanet Survey Satellite (TESS),7.94,6.605,7.80375
+HD 6061 b,Transiting Exoplanet Survey Satellite (TESS),8.844,7.392,8.69933
+HD 63935 b,Transiting Exoplanet Survey Satellite (TESS),8.58,6.881,8.39353
+HD 73583 b,Transiting Exoplanet Survey Satellite (TESS),9.67,6.948,9.27033
+HD 73583 c,Transiting Exoplanet Survey Satellite (TESS),9.67,6.948,9.27033
+HD 77946 b,Transiting Exoplanet Survey Satellite (TESS),8.99,7.622,8.85184
+HD 86226 c,Transiting Exoplanet Survey Satellite (TESS),7.93,6.463,7.7713
+HD 93963 A b,Transiting Exoplanet Survey Satellite (TESS),9.182,7.776,9.03376
+HD 93963 A c,Transiting Exoplanet Survey Satellite (TESS),9.182,7.776,9.03376
+HIP 65 A b,Transiting Exoplanet Survey Satellite (TESS),11.0,8.29,10.5895
+HIP 8152 b,Transiting Exoplanet Survey Satellite (TESS),10.07,8.449,9.90726
+HIP 8152 c,Transiting Exoplanet Survey Satellite (TESS),10.07,8.449,9.90726
+HIP 94235 b,Transiting Exoplanet Survey Satellite (TESS),8.31,6.881,8.16034
+HIP 9618 b,Transiting Exoplanet Survey Satellite (TESS),9.2,7.559,9.02543
+HIP 9618 c,Transiting Exoplanet Survey Satellite (TESS),9.2,7.559,9.02543
+HIP 97166 b,Transiting Exoplanet Survey Satellite (TESS),9.92,7.923,9.68443
+HR 858 b,Transiting Exoplanet Survey Satellite (TESS),6.38,5.149,6.25276
+HR 858 c,Transiting Exoplanet Survey Satellite (TESS),6.38,5.149,6.25276
+HR 858 d,Transiting Exoplanet Survey Satellite (TESS),6.38,5.149,6.25276
+L 168-9 b,Transiting Exoplanet Survey Satellite (TESS),11.005,7.082,10.2316
+L 98-59 b,Transiting Exoplanet Survey Satellite (TESS),11.685,7.101,10.5976
+L 98-59 c,Transiting Exoplanet Survey Satellite (TESS),11.685,7.101,10.5976
+L 98-59 d,Transiting Exoplanet Survey Satellite (TESS),11.685,7.101,10.5976
+LHS 1815 b,Transiting Exoplanet Survey Satellite (TESS),12.167,7.993,11.2362
+LP 714-47 b,Transiting Exoplanet Survey Satellite (TESS),12.492,8.626,11.7282
+LP 791-18 c,Transiting Exoplanet Survey Satellite (TESS),16.91,10.644,15.0715
+LTT 1445 A c,Transiting Exoplanet Survey Satellite (TESS),10.59,6.496,10.0469
+LTT 3780 b,Transiting Exoplanet Survey Satellite (TESS),13.14,8.204001,11.8465
+LTT 3780 c,Transiting Exoplanet Survey Satellite (TESS),13.14,8.204001,11.8465
+LTT 9779 b,Transiting Exoplanet Survey Satellite (TESS),9.79,8.016,9.60006
+NGTS-11 b,Transiting Exoplanet Survey Satellite (TESS),12.456,10.315,12.1895
+NGTS-20 b,Transiting Exoplanet Survey Satellite (TESS),11.233,9.83,11.0313
+NGTS-27 b,Transiting Exoplanet Survey Satellite (TESS),13.523,11.859,13.3475
+NGTS-30 b,Transiting Exoplanet Survey Satellite (TESS),12.537,10.501,12.1755
+NGTS-31 b,Transiting Exoplanet Survey Satellite (TESS),13.519,11.775,13.303
+NGTS-33 b,Transiting Exoplanet Survey Satellite (TESS),11.604,10.408,11.3976
+Ross 176 b,Transiting Exoplanet Survey Satellite (TESS),11.524,8.419,11.2715
+TIC 139270665 b,Transiting Exoplanet Survey Satellite (TESS),10.385,8.946,10.1805
+TIC 172900988 b,Transiting Exoplanet Survey Satellite (TESS),10.141,8.762,10.0477
+TIC 237913194 b,Transiting Exoplanet Survey Satellite (TESS),12.144,10.485,11.9371
+TIC 241249530 b,Transiting Exoplanet Survey Satellite (TESS),11.908,10.192,11.565
+TIC 257060897 b,Transiting Exoplanet Survey Satellite (TESS),11.814,10.387,11.6659
+TIC 279401253 b,Transiting Exoplanet Survey Satellite (TESS),11.938,10.345,11.6965
+TIC 365102760 b,Transiting Exoplanet Survey Satellite (TESS),12.154,9.788,11.9772
+TIC 393818343 b,Transiting Exoplanet Survey Satellite (TESS),9.48,8.052,9.429071
+TIC 46432937 b,Transiting Exoplanet Survey Satellite (TESS),14.268,10.195,13.433
+TIC 4672985 b,Transiting Exoplanet Survey Satellite (TESS),11.501,9.97,11.4442
+TOI-1011 b,Transiting Exoplanet Survey Satellite (TESS),8.94,7.109,8.72937
+TOI-1052 b,Transiting Exoplanet Survey Satellite (TESS),9.511,8.246,9.39972
+TOI-1062 b,Transiting Exoplanet Survey Satellite (TESS),10.249,8.296,10.0008
+TOI-1064 b,Transiting Exoplanet Survey Satellite (TESS),10.938,8.467,10.6491
+TOI-1064 c,Transiting Exoplanet Survey Satellite (TESS),10.938,8.467,10.6491
+TOI-1075 b,Transiting Exoplanet Survey Satellite (TESS),12.615,9.115,12.0544
+TOI-1107 b,Transiting Exoplanet Survey Satellite (TESS),10.553,9.205,10.3745
+TOI-1117 b,Transiting Exoplanet Survey Satellite (TESS),11.016,9.385,10.8621
+TOI-1130 b,Transiting Exoplanet Survey Satellite (TESS),11.595,8.351,10.9028
+TOI-1130 c,Transiting Exoplanet Survey Satellite (TESS),11.595,8.351,10.9028
+TOI-1173 b,Transiting Exoplanet Survey Satellite (TESS),11.038,9.134,10.8041
+TOI-1181 b,Transiting Exoplanet Survey Satellite (TESS),10.582,9.22,10.4776
+TOI-1194 b,Transiting Exoplanet Survey Satellite (TESS),11.302,9.34,10.9887
+TOI-1199 b,Transiting Exoplanet Survey Satellite (TESS),11.093,9.466,10.8853
+TOI-1201 b,Transiting Exoplanet Survey Satellite (TESS),12.26,8.646,12.0966
+TOI-1203 d,Transiting Exoplanet Survey Satellite (TESS),8.59,6.997,8.42196
+TOI-1221 b,Transiting Exoplanet Survey Satellite (TESS),10.494,9.036,10.5262
+TOI-1231 b,Transiting Exoplanet Survey Satellite (TESS),12.36,8.069,11.36
+TOI-1235 b,Transiting Exoplanet Survey Satellite (TESS),11.495,7.893,10.8492
+TOI-1238 b,Transiting Exoplanet Survey Satellite (TESS),12.796,9.184,12.2219
+TOI-1238 c,Transiting Exoplanet Survey Satellite (TESS),12.796,9.184,12.2219
+TOI-1246 c,Transiting Exoplanet Survey Satellite (TESS),11.632,9.907,11.7291
+TOI-1246 d,Transiting Exoplanet Survey Satellite (TESS),11.632,9.907,11.7291
+TOI-1246 e,Transiting Exoplanet Survey Satellite (TESS),11.632,9.907,11.7291
+TOI-1248 b,Transiting Exoplanet Survey Satellite (TESS),11.806,9.87,11.6512
+TOI-1249 b,Transiting Exoplanet Survey Satellite (TESS),11.089,9.126,10.6987
+TOI-125 b,Transiting Exoplanet Survey Satellite (TESS),11.023,8.995,10.718
+TOI-125 c,Transiting Exoplanet Survey Satellite (TESS),11.023,8.995,10.718
+TOI-125 d,Transiting Exoplanet Survey Satellite (TESS),11.023,8.995,10.718
+TOI-1259 A b,Transiting Exoplanet Survey Satellite (TESS),12.079,9.619,11.8104
+TOI-1260 b,Transiting Exoplanet Survey Satellite (TESS),11.922,8.95,11.5743
+TOI-1260 c,Transiting Exoplanet Survey Satellite (TESS),11.922,8.95,11.5743
+TOI-1260 d,Transiting Exoplanet Survey Satellite (TESS),11.922,8.95,11.5743
+TOI-1266 b,Transiting Exoplanet Survey Satellite (TESS),12.941,8.84,12.1222
+TOI-1266 c,Transiting Exoplanet Survey Satellite (TESS),12.941,8.84,12.1222
+TOI-1268 b,Transiting Exoplanet Survey Satellite (TESS),10.92,8.911,10.692
+TOI-1269 b,Transiting Exoplanet Survey Satellite (TESS),11.618,9.89,11.4712
+TOI-1272 b,Transiting Exoplanet Survey Satellite (TESS),11.758,9.701,11.6
+TOI-1273 b,Transiting Exoplanet Survey Satellite (TESS),10.98,9.417,10.8662
+TOI-1278 b,Transiting Exoplanet Survey Satellite (TESS),13.502,9.735,12.7543
+TOI-1279 b,Transiting Exoplanet Survey Satellite (TESS),10.714,8.887,10.4785
+TOI-1288 b,Transiting Exoplanet Survey Satellite (TESS),10.445,8.779,10.4468
+TOI-1294 b,Transiting Exoplanet Survey Satellite (TESS),11.314,9.964,11.3998
+TOI-1295 b,Transiting Exoplanet Survey Satellite (TESS),11.303,10.08,11.1307
+TOI-1296 b,Transiting Exoplanet Survey Satellite (TESS),11.37,9.742,11.2912
+TOI-1298 b,Transiting Exoplanet Survey Satellite (TESS),11.889,10.012,11.4038
+TOI-132 b,Transiting Exoplanet Survey Satellite (TESS),11.197,9.646,11.3208
+TOI-1333 b,Transiting Exoplanet Survey Satellite (TESS),9.438,8.272,9.35039
+TOI-1347 b,Transiting Exoplanet Survey Satellite (TESS),11.168,9.616,11.2087
+TOI-1347 c,Transiting Exoplanet Survey Satellite (TESS),11.168,9.616,11.2087
+TOI-1386 b,Transiting Exoplanet Survey Satellite (TESS),10.61,9.086,10.5069
+TOI-1408 b,Transiting Exoplanet Survey Satellite (TESS),9.270001,8.078,9.18795
+TOI-1408 c,Transiting Exoplanet Survey Satellite (TESS),9.270001,8.078,9.18795
+TOI-1410.01,Transiting Exoplanet Survey Satellite (TESS),11.111,8.577,10.8746
+TOI-1411 b,Transiting Exoplanet Survey Satellite (TESS),10.51,7.25,9.87723
+TOI-1416 b,Transiting Exoplanet Survey Satellite (TESS),9.91,7.708,9.65254
+TOI-1420 b,Transiting Exoplanet Survey Satellite (TESS),11.655,10.119,11.738
+TOI-1422 b,Transiting Exoplanet Survey Satellite (TESS),10.622,9.19,10.5521
+TOI-1431 b,Transiting Exoplanet Survey Satellite (TESS),8.03,7.439,7.97561
+TOI-1437 b,Transiting Exoplanet Survey Satellite (TESS),9.173,7.817,9.07928
+TOI-1438 b,Transiting Exoplanet Survey Satellite (TESS),10.957,9.09,10.8549
+TOI-1438 c,Transiting Exoplanet Survey Satellite (TESS),10.957,9.09,10.8549
+TOI-1439 b,Transiting Exoplanet Survey Satellite (TESS),10.55,9.053001,10.4168
+TOI-1443 b,Transiting Exoplanet Survey Satellite (TESS),10.675,8.674,10.4596
+TOI-1444 b,Transiting Exoplanet Survey Satellite (TESS),10.936,9.061,10.6417
+TOI-1448 b,Transiting Exoplanet Survey Satellite (TESS),15.678,10.765,14.4005
+TOI-1451 b,Transiting Exoplanet Survey Satellite (TESS),9.584,8.073,9.42861
+TOI-1452 b,Transiting Exoplanet Survey Satellite (TESS),14.354,9.74,13.6233
+TOI-1453 b,Transiting Exoplanet Survey Satellite (TESS),11.113,8.686,10.7265
+TOI-1453 c,Transiting Exoplanet Survey Satellite (TESS),11.113,8.686,10.7265
+TOI-1468 b,Transiting Exoplanet Survey Satellite (TESS),12.5,8.497,12.1172
+TOI-1468 c,Transiting Exoplanet Survey Satellite (TESS),12.5,8.497,12.1172
+TOI-1470 b,Transiting Exoplanet Survey Satellite (TESS),13.459,9.283,12.5555
+TOI-1470 c,Transiting Exoplanet Survey Satellite (TESS),13.459,9.283,12.5555
+TOI-1472 b,Transiting Exoplanet Survey Satellite (TESS),11.302,9.277,11.1107
+TOI-150.01,Transiting Exoplanet Survey Satellite (TESS),11.39,9.94,11.3408
+TOI-157 b,Transiting Exoplanet Survey Satellite (TESS),12.725,10.892,12.5143
+TOI-1601 b,Transiting Exoplanet Survey Satellite (TESS),10.66,9.191,10.5276
+TOI-163 b,Transiting Exoplanet Survey Satellite (TESS),11.467,10.124,11.2193
+TOI-1634 b,Transiting Exoplanet Survey Satellite (TESS),13.217,8.6,12.1965
+TOI-1669 c,Transiting Exoplanet Survey Satellite (TESS),10.218,8.462,10.0089
+TOI-1670 b,Transiting Exoplanet Survey Satellite (TESS),9.889,8.724,9.81934
+TOI-1670 c,Transiting Exoplanet Survey Satellite (TESS),9.889,8.724,9.81934
+TOI-1685 b,Transiting Exoplanet Survey Satellite (TESS),13.378,8.758,12.2956
+TOI-169 b,Transiting Exoplanet Survey Satellite (TESS),12.355,10.815,12.2379
+TOI-1694 b,Transiting Exoplanet Survey Satellite (TESS),11.446,9.425,11.3103
+TOI-1695 b,Transiting Exoplanet Survey Satellite (TESS),12.989,8.818,12.1364
+TOI-1710 b,Transiting Exoplanet Survey Satellite (TESS),9.545,7.959,9.35983
+TOI-172 b,Transiting Exoplanet Survey Satellite (TESS),11.299,9.722,11.1927
+TOI-1728 b,Transiting Exoplanet Survey Satellite (TESS),12.39,8.803001,11.7294
+TOI-1736 b,Transiting Exoplanet Survey Satellite (TESS),8.953,7.283,8.77969
+TOI-1742 b,Transiting Exoplanet Survey Satellite (TESS),8.863,7.335,8.72791
+TOI-1749 b,Transiting Exoplanet Survey Satellite (TESS),13.86,10.27,13.1798
+TOI-1749 c,Transiting Exoplanet Survey Satellite (TESS),13.86,10.27,13.1798
+TOI-1749 d,Transiting Exoplanet Survey Satellite (TESS),13.86,10.27,13.1798
+TOI-1751 b,Transiting Exoplanet Survey Satellite (TESS),9.327,7.934,9.18941
+TOI-1753 b,Transiting Exoplanet Survey Satellite (TESS),11.831,10.175,11.664
+TOI-1759 b,Transiting Exoplanet Survey Satellite (TESS),11.93,7.93,10.8385
+TOI-1775 b,Transiting Exoplanet Survey Satellite (TESS),11.648,9.722,11.4501
+TOI-1776 b,Transiting Exoplanet Survey Satellite (TESS),8.26,6.687,8.09023
+TOI-1794 b,Transiting Exoplanet Survey Satellite (TESS),10.32,8.692,10.1444
+TOI-1801 b,Transiting Exoplanet Survey Satellite (TESS),11.58,7.805,10.8269
+TOI-1803 b,Transiting Exoplanet Survey Satellite (TESS),11.871,9.658,11.7705
+TOI-1803 c,Transiting Exoplanet Survey Satellite (TESS),11.871,9.658,11.7705
+TOI-1807 b,Transiting Exoplanet Survey Satellite (TESS),10.0,7.568,9.67517
+TOI-181 b,Transiting Exoplanet Survey Satellite (TESS),11.191,9.047,11.0857
+TOI-1811 b,Transiting Exoplanet Survey Satellite (TESS),11.966,9.643,11.7574
+TOI-1820 b,Transiting Exoplanet Survey Satellite (TESS),10.899,9.508,10.9653
+TOI-1823 b,Transiting Exoplanet Survey Satellite (TESS),10.728,8.332,10.3908
+TOI-1824 b,Transiting Exoplanet Survey Satellite (TESS),9.721,7.757,9.5075
+TOI-1836 b,Transiting Exoplanet Survey Satellite (TESS),9.765,8.531,9.64482
+TOI-1836 c,Transiting Exoplanet Survey Satellite (TESS),9.765,8.531,9.64482
+TOI-1842 b,Transiting Exoplanet Survey Satellite (TESS),9.815,8.446,9.65981
+TOI-1853 b,Transiting Exoplanet Survey Satellite (TESS),12.178,10.055,11.9474
+TOI-1855 b,Transiting Exoplanet Survey Satellite (TESS),11.197,9.523,11.1611
+TOI-1898 b,Transiting Exoplanet Survey Satellite (TESS),7.87,6.663,7.748
+TOI-1899 b,Transiting Exoplanet Survey Satellite (TESS),14.88,10.509,13.5553
+TOI-1937 A b,Transiting Exoplanet Survey Satellite (TESS),13.18,11.226,13.0168
+TOI-199 b,Transiting Exoplanet Survey Satellite (TESS),10.701,8.814,10.5784
+TOI-1994 b,Transiting Exoplanet Survey Satellite (TESS),10.514,9.775,10.428
+TOI-2000 b,Transiting Exoplanet Survey Satellite (TESS),10.984,9.303001,10.8542
+TOI-2000 c,Transiting Exoplanet Survey Satellite (TESS),10.984,9.303001,10.8542
+TOI-2005 b,Transiting Exoplanet Survey Satellite (TESS),9.867,8.905,9.75967
+TOI-2010 b,Transiting Exoplanet Survey Satellite (TESS),9.849,8.281,9.69568
+TOI-2015 b,Transiting Exoplanet Survey Satellite (TESS),16.11,10.263,14.176
+TOI-2018 b,Transiting Exoplanet Survey Satellite (TESS),10.25,7.104,9.71999
+TOI-2019 b,Transiting Exoplanet Survey Satellite (TESS),10.263,8.598,10.0769
+TOI-2025 b,Transiting Exoplanet Survey Satellite (TESS),11.599,10.01,11.3637
+TOI-2031 A b,Transiting Exoplanet Survey Satellite (TESS),11.254,9.971,11.1141
+TOI-2076 c,Transiting Exoplanet Survey Satellite (TESS),9.139,7.115,8.91028
+TOI-2076 d,Transiting Exoplanet Survey Satellite (TESS),9.139,7.115,8.91028
+TOI-2088 b,Transiting Exoplanet Survey Satellite (TESS),11.638,9.521,11.4808
+TOI-2093 c,Transiting Exoplanet Survey Satellite (TESS),11.925,8.975,11.3685
+TOI-2095 b,Transiting Exoplanet Survey Satellite (TESS),13.19,8.988,12.094
+TOI-2095 c,Transiting Exoplanet Survey Satellite (TESS),13.19,8.988,12.094
+TOI-2107 b,Transiting Exoplanet Survey Satellite (TESS),12.0363,10.328,11.8642
+TOI-2120 b,Transiting Exoplanet Survey Satellite (TESS),15.648,10.205,14.1872
+TOI-2128 b,Transiting Exoplanet Survey Satellite (TESS),7.22142,5.821,7.06642
+TOI-2134 b,Transiting Exoplanet Survey Satellite (TESS),8.933,6.091,8.5077
+TOI-2134 c,Transiting Exoplanet Survey Satellite (TESS),8.933,6.091,8.5077
+TOI-2136 b,Transiting Exoplanet Survey Satellite (TESS),14.32,9.343,12.9643
+TOI-2145 b,Transiting Exoplanet Survey Satellite (TESS),9.07,7.761,8.93651
+TOI-2152 A b,Transiting Exoplanet Survey Satellite (TESS),11.436,9.597,11.2407
+TOI-2154 b,Transiting Exoplanet Survey Satellite (TESS),11.068,9.85,11.0359
+TOI-2158 b,Transiting Exoplanet Survey Satellite (TESS),10.887,9.071,10.6718
+TOI-2169 A b,Transiting Exoplanet Survey Satellite (TESS),11.16,9.669,10.9562
+TOI-2180 b,Transiting Exoplanet Survey Satellite (TESS),9.162,7.604,9.01133
+TOI-2184 b,Transiting Exoplanet Survey Satellite (TESS),12.254,10.41,11.8482
+TOI-2193 A b,Transiting Exoplanet Survey Satellite (TESS),11.976,10.383,11.8135
+TOI-2196 b,Transiting Exoplanet Survey Satellite (TESS),12.297,10.346,11.8259
+TOI-220 b,Transiting Exoplanet Survey Satellite (TESS),10.466,8.542,10.1897
+TOI-2202 b,Transiting Exoplanet Survey Satellite (TESS),13.004,10.8,12.7606
+TOI-2207 b,Transiting Exoplanet Survey Satellite (TESS),11.316,10.133,11.3545
+TOI-2236 b,Transiting Exoplanet Survey Satellite (TESS),11.6,9.96,11.2905
+TOI-2295 b,Transiting Exoplanet Survey Satellite (TESS),9.595,8.111,9.46138
+TOI-2322 b,Transiting Exoplanet Survey Satellite (TESS),10.912,8.369,10.7489
+TOI-2322 c,Transiting Exoplanet Survey Satellite (TESS),10.912,8.369,10.7489
+TOI-2328 b,Transiting Exoplanet Survey Satellite (TESS),12.331,10.395,12.1082
+TOI-2337 b,Transiting Exoplanet Survey Satellite (TESS),12.524,9.678001,11.8752
+TOI-2338 b,Transiting Exoplanet Survey Satellite (TESS),12.483,10.664,12.1856
+TOI-2346 b,Transiting Exoplanet Survey Satellite (TESS),12.366,10.712,11.9242
+TOI-2364 b,Transiting Exoplanet Survey Satellite (TESS),12.234,10.363,12.0921
+TOI-2368 b,Transiting Exoplanet Survey Satellite (TESS),12.486,10.342,12.2727
+TOI-2373 b,Transiting Exoplanet Survey Satellite (TESS),13.251,11.586,13.0711
+TOI-2374 b,Transiting Exoplanet Survey Satellite (TESS),12.095,9.793,11.827
+TOI-2379 b,Transiting Exoplanet Survey Satellite (TESS),15.548,11.477,14.6601
+TOI-2382 b,Transiting Exoplanet Survey Satellite (TESS),11.814,10.578,11.8534
+TOI-2384 b,Transiting Exoplanet Survey Satellite (TESS),15.103,11.119,14.3985
+TOI-2416 b,Transiting Exoplanet Survey Satellite (TESS),13.019,11.511,12.8909
+TOI-2421 b,Transiting Exoplanet Survey Satellite (TESS),11.419,9.667,11.1554
+TOI-2443 b,Transiting Exoplanet Survey Satellite (TESS),9.51,6.5,9.0333
+TOI-2447 b,Transiting Exoplanet Survey Satellite (TESS),10.507,9.12,10.4403
+TOI-2449 b,Transiting Exoplanet Survey Satellite (TESS),10.416,9.073,10.2924
+TOI-2458 b,Transiting Exoplanet Survey Satellite (TESS),9.202,7.891,9.09716
+TOI-2497 b,Transiting Exoplanet Survey Satellite (TESS),9.547,8.486,9.47244
+TOI-2498 b,Transiting Exoplanet Survey Satellite (TESS),11.196,9.933,11.2677
+TOI-251 b,Transiting Exoplanet Survey Satellite (TESS),9.887,8.426,9.75411
+TOI-2524 b,Transiting Exoplanet Survey Satellite (TESS),12.8,11.198,12.6225
+TOI-2525 b,Transiting Exoplanet Survey Satellite (TESS),14.216,11.905,14.012
+TOI-2525 c,Transiting Exoplanet Survey Satellite (TESS),14.216,11.905,14.012
+TOI-2529 b,Transiting Exoplanet Survey Satellite (TESS),11.529,9.489,11.1911
+TOI-2537 b,Transiting Exoplanet Survey Satellite (TESS),13.236,10.387,12.73
+TOI-2567 b,Transiting Exoplanet Survey Satellite (TESS),12.3,10.717,12.2213
+TOI-257 b,Transiting Exoplanet Survey Satellite (TESS),7.57,6.256,7.41653
+TOI-2570 b,Transiting Exoplanet Survey Satellite (TESS),12.569,10.905,12.4599
+TOI-2580 b,Transiting Exoplanet Survey Satellite (TESS),11.419,9.877,11.2548
+TOI-2583 A b,Transiting Exoplanet Survey Satellite (TESS),12.586,11.245,12.4592
+TOI-2587 A b,Transiting Exoplanet Survey Satellite (TESS),11.544,9.991,11.4079
+TOI-2589 b,Transiting Exoplanet Survey Satellite (TESS),11.415,9.632,11.1958
+TOI-260 b,Transiting Exoplanet Survey Satellite (TESS),9.9,6.549,9.3124
+TOI-2641 b,Transiting Exoplanet Survey Satellite (TESS),11.693,10.325,11.5712
+TOI-2669 b,Transiting Exoplanet Survey Satellite (TESS),10.916,8.492,10.6019
+TOI-269 b,Transiting Exoplanet Survey Satellite (TESS),14.37,10.1,13.4258
+TOI-270 b,Transiting Exoplanet Survey Satellite (TESS),12.603,8.251,11.6306
+TOI-270 c,Transiting Exoplanet Survey Satellite (TESS),12.603,8.251,11.6306
+TOI-270 d,Transiting Exoplanet Survey Satellite (TESS),12.603,8.251,11.6306
+TOI-2714 b,Transiting Exoplanet Survey Satellite (TESS),13.468,11.807,13.2544
+TOI-2796 b,Transiting Exoplanet Survey Satellite (TESS),12.475,10.936,12.3642
+TOI-2803 A b,Transiting Exoplanet Survey Satellite (TESS),12.537,11.282,12.4272
+TOI-2818 b,Transiting Exoplanet Survey Satellite (TESS),11.937,10.403,11.8367
+TOI-2842 b,Transiting Exoplanet Survey Satellite (TESS),12.59,11.062,12.4636
+TOI-286 b,Transiting Exoplanet Survey Satellite (TESS),9.866,7.851,9.65064
+TOI-286 c,Transiting Exoplanet Survey Satellite (TESS),9.866,7.851,9.65064
+TOI-2876 b,Transiting Exoplanet Survey Satellite (TESS),12.401,10.443,12.2566
+TOI-2886 b,Transiting Exoplanet Survey Satellite (TESS),12.265,10.918,12.1953
+TOI-2969 b,Transiting Exoplanet Survey Satellite (TESS),12.796,10.25,12.6195
+TOI-2977 b,Transiting Exoplanet Survey Satellite (TESS),12.6334,10.666,12.4443
+TOI-2981 b,Transiting Exoplanet Survey Satellite (TESS),13.361,11.78,13.1868
+TOI-2986 b,Transiting Exoplanet Survey Satellite (TESS),12.633,11.187,12.4758
+TOI-2989 b,Transiting Exoplanet Survey Satellite (TESS),13.859,10.861,13.4755
+TOI-2992 b,Transiting Exoplanet Survey Satellite (TESS),12.603,11.027,12.3899
+TOI-3023 b,Transiting Exoplanet Survey Satellite (TESS),12.252,10.243,12.0336
+TOI-3071 b,Transiting Exoplanet Survey Satellite (TESS),12.383,11.005,12.2766
+TOI-3135 b,Transiting Exoplanet Survey Satellite (TESS),11.79,10.009,11.5801
+TOI-3160 A b,Transiting Exoplanet Survey Satellite (TESS),12.649,10.894,12.3708
+TOI-3235 b,Transiting Exoplanet Survey Satellite (TESS),15.16,10.819,14.4858
+TOI-3261 b,Transiting Exoplanet Survey Satellite (TESS),13.261,11.184,13.0582
+TOI-329 b,Transiting Exoplanet Survey Satellite (TESS),11.262,9.677,11.1536
+TOI-332 b,Transiting Exoplanet Survey Satellite (TESS),12.349,10.315,12.063
+TOI-3321 b,Transiting Exoplanet Survey Satellite (TESS),11.076,9.67,11.0932
+TOI-3331 A b,Transiting Exoplanet Survey Satellite (TESS),11.635,9.914,11.8314
+TOI-3362 b,Transiting Exoplanet Survey Satellite (TESS),10.86,9.693,10.7051
+TOI-3364 b,Transiting Exoplanet Survey Satellite (TESS),11.875,9.783,11.2945
+TOI-3464 b,Transiting Exoplanet Survey Satellite (TESS),12.731,11.095,12.5094
+TOI-3474 b,Transiting Exoplanet Survey Satellite (TESS),12.531,10.943,12.4418
+TOI-3486 b,Transiting Exoplanet Survey Satellite (TESS),12.329,10.004,12.1144
+TOI-3523 A b,Transiting Exoplanet Survey Satellite (TESS),12.56,11.146,12.4946
+TOI-3540 A b,Transiting Exoplanet Survey Satellite (TESS),11.514,9.784,11.4036
+TOI-3568 b,Transiting Exoplanet Survey Satellite (TESS),12.879,10.581,12.7
+TOI-3593 b,Transiting Exoplanet Survey Satellite (TESS),12.201,10.266,12.0344
+TOI-3629 b,Transiting Exoplanet Survey Satellite (TESS),14.639,10.553,13.8375
+TOI-3682 b,Transiting Exoplanet Survey Satellite (TESS),11.678,10.062,11.8754
+TOI-3688 A b,Transiting Exoplanet Survey Satellite (TESS),12.241,10.732,12.3686
+TOI-3693 b,Transiting Exoplanet Survey Satellite (TESS),11.948,10.151,11.9579
+TOI-3714 b,Transiting Exoplanet Survey Satellite (TESS),15.7,10.852,14.3107
+TOI-3757 b,Transiting Exoplanet Survey Satellite (TESS),14.812,11.152,14.1321
+TOI-3785 b,Transiting Exoplanet Survey Satellite (TESS),14.595,10.165,13.6559
+TOI-3807 b,Transiting Exoplanet Survey Satellite (TESS),11.856,10.617,12.0338
+TOI-3819 b,Transiting Exoplanet Survey Satellite (TESS),12.542,11.077,12.413
+TOI-3837 b,Transiting Exoplanet Survey Satellite (TESS),11.673,10.316,11.8041
+TOI-3856 b,Transiting Exoplanet Survey Satellite (TESS),12.292,10.611,12.1318
+TOI-3877 b,Transiting Exoplanet Survey Satellite (TESS),12.215,10.916,12.3643
+TOI-3884 b,Transiting Exoplanet Survey Satellite (TESS),15.744,10.24,14.2747
+TOI-3894 b,Transiting Exoplanet Survey Satellite (TESS),11.992,10.479,11.6943
+TOI-3912 b,Transiting Exoplanet Survey Satellite (TESS),12.507,10.922,12.3073
+TOI-3919 b,Transiting Exoplanet Survey Satellite (TESS),12.858,11.502,12.7133
+TOI-3976 A b,Transiting Exoplanet Survey Satellite (TESS),12.403,11.048,12.2192
+TOI-3980 b,Transiting Exoplanet Survey Satellite (TESS),12.549,10.741,12.3751
+TOI-3984 A b,Transiting Exoplanet Survey Satellite (TESS),15.694,11.052,14.6718
+TOI-4010 b,Transiting Exoplanet Survey Satellite (TESS),12.291,10.157,12.1216
+TOI-4010 c,Transiting Exoplanet Survey Satellite (TESS),12.291,10.157,12.1216
+TOI-4010 d,Transiting Exoplanet Survey Satellite (TESS),12.291,10.157,12.1216
+TOI-406 c,Transiting Exoplanet Survey Satellite (TESS),13.773,8.848,12.5528
+TOI-406.01,Transiting Exoplanet Survey Satellite (TESS),13.773,8.848,12.5528
+TOI-4087 b,Transiting Exoplanet Survey Satellite (TESS),12.107,10.436,11.7064
+TOI-4127 b,Transiting Exoplanet Survey Satellite (TESS),11.441,10.245,11.4122
+TOI-4137 b,Transiting Exoplanet Survey Satellite (TESS),11.31,10.004,11.2468
+TOI-4145 A b,Transiting Exoplanet Survey Satellite (TESS),12.084,10.286,12.0572
+TOI-4153 b,Transiting Exoplanet Survey Satellite (TESS),11.601,10.296,11.5632
+TOI-4201 b,Transiting Exoplanet Survey Satellite (TESS),15.163,11.368,14.5001
+TOI-421 b,Transiting Exoplanet Survey Satellite (TESS),9.931,8.071,9.77776
+TOI-421 c,Transiting Exoplanet Survey Satellite (TESS),9.931,8.071,9.77776
+TOI-4214 b,Transiting Exoplanet Survey Satellite (TESS),11.79,10.036,11.4587
+TOI-431 b,Transiting Exoplanet Survey Satellite (TESS),9.12,6.723,8.79171
+TOI-431 d,Transiting Exoplanet Survey Satellite (TESS),9.12,6.723,8.79171
+TOI-4329 b,Transiting Exoplanet Survey Satellite (TESS),12.724,10.63,12.4747
+TOI-4377 b,Transiting Exoplanet Survey Satellite (TESS),11.707,9.148,11.4565
+TOI-4379 b,Transiting Exoplanet Survey Satellite (TESS),12.661,10.732,12.4083
+TOI-4406 b,Transiting Exoplanet Survey Satellite (TESS),10.937,9.73,10.9545
+TOI-4438 b,Transiting Exoplanet Survey Satellite (TESS),13.69,8.869,12.5196
+TOI-4463 A b,Transiting Exoplanet Survey Satellite (TESS),11.036,9.402,10.9505
+TOI-4465 b,Transiting Exoplanet Survey Satellite (TESS),10.427,8.787,10.3255
+TOI-4487 A b,Transiting Exoplanet Survey Satellite (TESS),12.109,10.556,11.9269
+TOI-4504 c,Transiting Exoplanet Survey Satellite (TESS),13.364,11.236,13.1277
+TOI-4515 b,Transiting Exoplanet Survey Satellite (TESS),11.938,10.134,11.8121
+TOI-4551 b,Transiting Exoplanet Survey Satellite (TESS),9.973,7.524,9.641
+TOI-4582 b,Transiting Exoplanet Survey Satellite (TESS),11.27,9.329001,11.0809
+TOI-4600 b,Transiting Exoplanet Survey Satellite (TESS),12.577,10.571,12.4406
+TOI-4600 c,Transiting Exoplanet Survey Satellite (TESS),12.577,10.571,12.4406
+TOI-4603 b,Transiting Exoplanet Survey Satellite (TESS),9.24,7.786,9.07469
+TOI-4633 c,Transiting Exoplanet Survey Satellite (TESS),9.017,7.349,8.81983
+TOI-4641 b,Transiting Exoplanet Survey Satellite (TESS),7.51,6.579,7.40775
+TOI-4734 b,Transiting Exoplanet Survey Satellite (TESS),12.358,10.848,12.3807
+TOI-4773 b,Transiting Exoplanet Survey Satellite (TESS),12.075,10.715,11.7194
+TOI-4791 b,Transiting Exoplanet Survey Satellite (TESS),11.541,10.019,11.3152
+TOI-4794 b,Transiting Exoplanet Survey Satellite (TESS),12.563,11.123,12.4496
+TOI-480 b,Transiting Exoplanet Survey Satellite (TESS),7.28,6.01,7.1442
+TOI-481 b,Transiting Exoplanet Survey Satellite (TESS),9.972,8.443,9.84659
+TOI-4860 b,Transiting Exoplanet Survey Satellite (TESS),16.47,11.175,15.1091
+TOI-4914 b,Transiting Exoplanet Survey Satellite (TESS),12.235,10.706,12.0997
+TOI-4961 b,Transiting Exoplanet Survey Satellite (TESS),12.486,10.304,12.2685
+TOI-4994 b,Transiting Exoplanet Survey Satellite (TESS),12.652,10.797,12.4792
+TOI-500 b,Transiting Exoplanet Survey Satellite (TESS),10.54,7.715,10.1026
+TOI-5027 b,Transiting Exoplanet Survey Satellite (TESS),11.566,9.979,11.3341
+TOI-5076 b,Transiting Exoplanet Survey Satellite (TESS),10.9,8.582,10.5927
+TOI-5110 b,Transiting Exoplanet Survey Satellite (TESS),11.06,9.318,10.6815
+TOI-512 b,Transiting Exoplanet Survey Satellite (TESS),9.735,7.797,9.48032
+TOI-5153 b,Transiting Exoplanet Survey Satellite (TESS),11.932,10.408,11.5779
+TOI-5181 A b,Transiting Exoplanet Survey Satellite (TESS),12.301,10.627,12.2189
+TOI-519 b,Transiting Exoplanet Survey Satellite (TESS),17.35,11.951,15.7067
+TOI-5205 b,Transiting Exoplanet Survey Satellite (TESS),15.899,11.006,14.9317
+TOI-5210 b,Transiting Exoplanet Survey Satellite (TESS),12.118,10.308,11.9381
+TOI-5218 b,Transiting Exoplanet Survey Satellite (TESS),16.044,12.546,15.4499
+TOI-5232 b,Transiting Exoplanet Survey Satellite (TESS),12.246,10.857,12.168
+TOI-5261 b,Transiting Exoplanet Survey Satellite (TESS),12.68,11.156,12.6023
+TOI-5293 A b,Transiting Exoplanet Survey Satellite (TESS),16.19,11.639,14.9816
+TOI-530 b,Transiting Exoplanet Survey Satellite (TESS),15.403,11.238,14.6439
+TOI-5300 b,Transiting Exoplanet Survey Satellite (TESS),13.869,10.568,13.2333
+TOI-5301 b,Transiting Exoplanet Survey Satellite (TESS),11.738,10.336,11.5696
+TOI-532 b,Transiting Exoplanet Survey Satellite (TESS),14.413,10.587,13.6645
+TOI-5322 b,Transiting Exoplanet Survey Satellite (TESS),12.733,10.9,12.4839
+TOI-5340 b,Transiting Exoplanet Survey Satellite (TESS),12.399,10.607,12.2074
+TOI-5344 b,Transiting Exoplanet Survey Satellite (TESS),15.402,10.86,14.3361
+TOI-5350 b,Transiting Exoplanet Survey Satellite (TESS),11.953,9.985,11.7055
+TOI-5386 A b,Transiting Exoplanet Survey Satellite (TESS),11.554,10.414,11.7598
+TOI-5398 b,Transiting Exoplanet Survey Satellite (TESS),10.059,8.713,9.98233
+TOI-5398 c,Transiting Exoplanet Survey Satellite (TESS),10.059,8.713,9.98233
+TOI-544 b,Transiting Exoplanet Survey Satellite (TESS),10.777,7.8,10.4143
+TOI-5542 b,Transiting Exoplanet Survey Satellite (TESS),12.42,10.897,12.2819
+TOI-5573 b,Transiting Exoplanet Survey Satellite (TESS),15.508,11.448,14.6741
+TOI-558 b,Transiting Exoplanet Survey Satellite (TESS),11.233,10.262,11.3253
+TOI-559 b,Transiting Exoplanet Survey Satellite (TESS),11.091,9.638,10.9777
+TOI-5592 b,Transiting Exoplanet Survey Satellite (TESS),12.614,11.363,12.4963
+TOI-5616 b,Transiting Exoplanet Survey Satellite (TESS),16.74,12.735,15.6306
+TOI-5634 A b,Transiting Exoplanet Survey Satellite (TESS),16.854,12.913,15.9978
+TOI-564 b,Transiting Exoplanet Survey Satellite (TESS),11.097,9.604,11.1424
+TOI-5678 b,Transiting Exoplanet Survey Satellite (TESS),11.438,9.563,11.1483
+TOI-5688 A b,Transiting Exoplanet Survey Satellite (TESS),15.78,11.959,15.324
+TOI-5795 b,Transiting Exoplanet Survey Satellite (TESS),10.708,9.168,10.6376
+TOI-5800 b,Transiting Exoplanet Survey Satellite (TESS),9.553001,7.191,9.21824
+TOI-5817 b,Transiting Exoplanet Survey Satellite (TESS),8.64,7.084,8.48343
+TOI-5882 b,Transiting Exoplanet Survey Satellite (TESS),11.315,9.615,11.1063
+TOI-6016 b,Transiting Exoplanet Survey Satellite (TESS),11.886,10.224,11.9184
+TOI-6029 b,Transiting Exoplanet Survey Satellite (TESS),12.858,10.369,12.2681
+TOI-6034 b,Transiting Exoplanet Survey Satellite (TESS),15.189,11.016,14.3143
+TOI-6054.01,Transiting Exoplanet Survey Satellite (TESS),8.020001,6.673,7.87799
+TOI-6054.02,Transiting Exoplanet Survey Satellite (TESS),8.020001,6.673,7.87799
+TOI-6130 b,Transiting Exoplanet Survey Satellite (TESS),11.21,9.655,10.9775
+TOI-615 b,Transiting Exoplanet Survey Satellite (TESS),10.825,9.669,10.5775
+TOI-622 b,Transiting Exoplanet Survey Satellite (TESS),8.995,7.858,8.89103
+TOI-6255 b,Transiting Exoplanet Survey Satellite (TESS),12.747,8.071,11.6345
+TOI-628 b,Transiting Exoplanet Survey Satellite (TESS),10.112,8.811,10.0579
+TOI-6303 b,Transiting Exoplanet Survey Satellite (TESS),14.639,10.826,13.9114
+TOI-6324 b,Transiting Exoplanet Survey Satellite (TESS),13.386,8.691,12.214
+TOI-6330 b,Transiting Exoplanet Survey Satellite (TESS),16.33,11.513,14.9341
+TOI-6383 A b,Transiting Exoplanet Survey Satellite (TESS),16.63,12.087,15.6628
+TOI-640 b,Transiting Exoplanet Survey Satellite (TESS),10.51,9.243,10.4006
+TOI-6420 b,Transiting Exoplanet Survey Satellite (TESS),12.994,11.615,12.9023
+TOI-654.01,Transiting Exoplanet Survey Satellite (TESS),14.54,9.918,13.4339
+TOI-6628 b,Transiting Exoplanet Survey Satellite (TESS),12.9,10.836,12.6408
+TOI-6651 b,Transiting Exoplanet Survey Satellite (TESS),10.242,8.684,10.0418
+TOI-669 b,Transiting Exoplanet Survey Satellite (TESS),10.606,9.134,10.6364
+TOI-6695 b,Transiting Exoplanet Survey Satellite (TESS),10.768,9.512,10.7445
+TOI-674 b,Transiting Exoplanet Survey Satellite (TESS),14.203,9.469,13.0914
+TOI-677 b,Transiting Exoplanet Survey Satellite (TESS),9.822,8.429,9.66082
+TOI-7041 b,Transiting Exoplanet Survey Satellite (TESS),11.251,8.691,10.908
+TOI-733 b,Transiting Exoplanet Survey Satellite (TESS),9.44,7.845,9.28881
+TOI-757 b,Transiting Exoplanet Survey Satellite (TESS),9.743,7.874,9.55369
+TOI-762 A b,Transiting Exoplanet Survey Satellite (TESS),16.0,11.084,14.9535
+TOI-763 b,Transiting Exoplanet Survey Satellite (TESS),10.265,8.49,9.99915
+TOI-763 c,Transiting Exoplanet Survey Satellite (TESS),10.265,8.49,9.99915
+TOI-771 b,Transiting Exoplanet Survey Satellite (TESS),14.888,9.664,13.3671
+TOI-776 b,Transiting Exoplanet Survey Satellite (TESS),11.536,7.615,10.7409
+TOI-776 c,Transiting Exoplanet Survey Satellite (TESS),11.536,7.615,10.7409
+TOI-778 b,Transiting Exoplanet Survey Satellite (TESS),9.109,8.055,8.99436
+TOI-782 b,Transiting Exoplanet Survey Satellite (TESS),14.83,9.86,13.5645
+TOI-784 b,Transiting Exoplanet Survey Satellite (TESS),9.412,7.64,9.23501
+TOI-815 b,Transiting Exoplanet Survey Satellite (TESS),10.217,7.999,9.93978
+TOI-815 c,Transiting Exoplanet Survey Satellite (TESS),10.217,7.999,9.93978
+TOI-836 b,Transiting Exoplanet Survey Satellite (TESS),9.92,6.804,9.40475
+TOI-836 c,Transiting Exoplanet Survey Satellite (TESS),9.92,6.804,9.40475
+TOI-849 b,Transiting Exoplanet Survey Satellite (TESS),11.981,10.418,12.0645
+TOI-858 B b,Transiting Exoplanet Survey Satellite (TESS),11.183,9.722,11.0695
+TOI-892 b,Transiting Exoplanet Survey Satellite (TESS),11.43,10.106,11.3435
+TOI-905 b,Transiting Exoplanet Survey Satellite (TESS),11.08,9.448,11.0813
+TOI-908 b,Transiting Exoplanet Survey Satellite (TESS),11.316,9.637,11.1061
+TOI-954 b,Transiting Exoplanet Survey Satellite (TESS),10.343,8.779,10.2321
+WASP-132 c,Transiting Exoplanet Survey Satellite (TESS),11.938,9.674,11.7538
+WD 1856+534 b,Transiting Exoplanet Survey Satellite (TESS),17.244,15.548,16.958
+Wolf 327 b,Transiting Exoplanet Survey Satellite (TESS),13.018,8.435,11.9522
